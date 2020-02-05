@@ -1,5 +1,5 @@
-# machine-learning-nanodegree
-machine-learning-nanodegree
+# machine-learning-nanodegree-capstone-project
+machine-learning-nanodegree-capstone-project
 
 In this repository, there are all the files I have used to work on my Machine Learning Nanodegree from Udacity. <br>
 
