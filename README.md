@@ -1,5 +1,4 @@
-# machine-learning-nanodegree-capstone-project
-machine-learning-nanodegree-capstone-project
+# AirBnb New York City Prices of stay prediction
 
 In this repository, there are all the files I have used to work on my Machine Learning Nanodegree from Udacity. <br>
 
